@@ -11,4 +11,4 @@ Note - We used soms as a visual matric to identify, hence all the results are ba
 
 application of SOM algorithms on Matlab/octave
 
-run main.m
+run main.m to check and test the implementation
